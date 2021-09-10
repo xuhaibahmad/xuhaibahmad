@@ -56,8 +56,8 @@ Also, I'm available on the weekends for non-profit and open source contributions
 
 ## 👨‍💻 Languages
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuhaibahmad&layout=compact&hide=html" alt="xuhaibahmad"></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuhaibahmad&langs_count=6&layout=compact&hide=html" alt="xuhaibahmad"></div>
 
 ## 📈 Public GitHub Stats
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xuhaibahmad&show_icons=true" alt="xuhaibahmad" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xuhaibahmad&show_icons=true&count_private=true&include_all_commits=true&hide=contribs" alt="xuhaibahmad" /></div>
