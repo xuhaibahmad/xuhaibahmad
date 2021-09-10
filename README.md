@@ -48,8 +48,6 @@ From developing mobile applications for a living to several projects across vari
 
 I can write clean, scalable and testable code that is easy to maintain, refactor and expand. My core expertise lies in Mobile Application Development. However, I have been regularly developing SPAs and PWAs with Vue JS, as well as Kivy apps and automation projects with Python for the past couple of years; both professionally and as a hobby.
 
-I take pride in my work and stand by its quality. Would love to bring your idea to life and suggest best practices.
-
 Also, I'm available on the weekends for non-profit and open source contributions. Feel free to contact me if you need assistance with any project dedicated to a social cause.
 
 <hr/>
