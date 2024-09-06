@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Zuhaib Ahmad</h3>
-  <h4>Sr. Software Engineer</br>(Android/Flutter/Python)</h4>
+  <h4>Sr. Software Engineer</br>(Android/iOS/Flutter)</h4>
 </div>
 
 </br>
@@ -42,13 +42,11 @@
 
 <hr/>
 
-Hi, I'm **Zuhaib**. A passionate and curiosity-driven Software Engineer with more than a decade of experience with mobile application development.
+Hi, I'm **Zuhaib**. A passionate and curiosity-driven Software Engineer with more than a decade of experience with Mobile Application Development.
 
 From developing apps for a living to several projects across various platforms as a hobby. I have spent the last several years exploring various genres and paradigms of information technology working along with countless brilliant minds. My journey so far has included contributions to projects both as a team member and an individual contractor.
 
-My expertise lies in building real-time data-driven apps with cutting-edge modern UI/UX. My tool of choice for mobile app development is Flutter due to its performance, developer productivity, and stunning UI. However, I have been writing native Android and iOS apps long before Flutter was around. I can write clean, scalable, and testable code that is easy to maintain, refactor, and expand upon.
-
-Also, I'm available on the weekends for non-profit and open-source contributions. Feel free to contact me if you need assistance with any project dedicated to a social cause.
+My expertise lies in building real-time data-driven apps with cutting-edge modern UI/UX. My tool of choice is Flutter due to its performance, developer productivity, and stunning UI. However, I have been writing native Android and iOS apps long before Flutter was around.
 
 <hr/>
 
