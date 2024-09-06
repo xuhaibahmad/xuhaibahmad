@@ -46,7 +46,7 @@ Hi, I'm **Zuhaib**. A passionate and curiosity-driven Software Engineer with mor
 
 From developing apps for a living to several projects across various platforms as a hobby. I have spent the last several years exploring various genres and paradigms of information technology working along with countless brilliant minds. My journey so far has included contributions to projects both as a team member and an individual contractor.
 
-My expertise lies in building real-time data-driven apps with cutting-edge modern UI/UX. My tool of choice is Flutter due to its performance, developer productivity, and stunning UI. However, I have been writing native Android and iOS apps long before Flutter was around.
+My expertise lies in building real-time data-driven apps with cutting-edge modern UI/UX. I like to write clean, scalable, and testable code that is easy to maintain, refactor, and expand upon. My tool of choice is Flutter due to its performance, developer productivity, and stunning UI. However, I have been writing native Android and iOS apps long before Flutter was around.
 
 <hr/>
 
